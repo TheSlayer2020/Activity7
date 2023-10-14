@@ -1,0 +1,24 @@
+/* styles/global.css */
+body {
+
+    background: red;
+    background-image: url("Neon.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    /* Set the maximum width to 100% */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+.nav1 {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+.txt {
+  color: blue;
+  background-color: blue;
+}
